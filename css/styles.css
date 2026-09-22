@@ -16,9 +16,11 @@ body {
 .left_column {
   flex: 1;
   padding: 15px;
+  background-color: paleturquoise;
 }
 
 .right_column {
     flex: 0.25;
     padding: 15px;
+    background-color: cadetblue;
 }
